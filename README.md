@@ -1,4 +1,3 @@
-# jivoxHac
 Data visualization
 npm start to run the app
 
